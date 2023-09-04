@@ -1,2 +1,17 @@
-# Computer
-컴퓨터에 대해 다루는 레포지토리
+# 컴퓨터
+- [프로그래밍 언어](./ProgramingLanguage/README.md)
+- [알고리즘](./AlgorithmAndDataStructure/README.md)
+- [미들웨어](./Middleware/README.md)
+- [운영체제와 컴퓨터 구조](./OSandComputerArchitecture/README.md)
+- [데이터베이스](./Database/README.md)
+- [버전 관리 시스템과 레포 호스팅 서비스](./GitAndGitHub/README.md)
+- [코드 에디터와 IDE](./IDE/README.md)
+- [캐싱](./Caching/README.md)
+- [소프트웨어 설계 및 개발 원칙](./DesignAndDevelopmentPrinciples/README.md)
+- [테스트](./Test/README.md)
+- [CI/CD](./CICD/README.md)
+- [가상화와 컨테이너화](./VirtualizationAndContainerization/README.md)
+- [성능 측정 및 완화 전략](./MitigationStrategies/README.md)
+- [클라우드 컴퓨팅](./CloudComputing/README.md)
+- [네트워크](./ComputerNetwork/README.md)
+- [웹과 서버](./WebAndServer/README.md)
