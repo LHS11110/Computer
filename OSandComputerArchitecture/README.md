@@ -1,6 +1,8 @@
 # OS(Operating System)와 Computer Architecture
 - [컴퓨터란?](./OSandArchitecture/Computer.md)
 - [소프트웨어와 하드웨어]()
+- [시스템 소프트웨어와 응용 소프트웨어]()
+- [제어, 처리 프로그램]()
 - [컴퓨터 리소스]()
 - [운영체제란?]()
 - [운영체제의 운용기법]()
