@@ -10,7 +10,7 @@
 - [소프트웨어 설계 및 개발 원칙](./DesignAndDevelopmentPrinciples/README.md)
 - [테스트](./Test/README.md)
 - [CI/CD](./CICD/README.md)
-- [가상화와 컨테이너화](./VirtualizationAndContainerization/README.md)
+- [가상화, 컨테이너화](./VirtualizationAndContainerization/README.md)
 - [성능 측정 및 완화 전략](./MitigationStrategies/README.md)
 - [클라우드 컴퓨팅](./CloudComputing/README.md)
 - [네트워크](./ComputerNetwork/README.md)
