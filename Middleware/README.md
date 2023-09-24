@@ -1,6 +1,11 @@
 # 미들웨어
 - [미들웨어란?]()
-- [미들웨어 종류]()
 - [RPC]()
 - [RabbitMQ]()
 - [Kafka]()
+- [RPC(Remote Procedure Call)]()
+- [MOM(Message Oriented Middleware)]()
+- [ORB(Object Request Broker)]()
+- [TP-Monitor(Transection Processing Monitor)]()
+- [WAS(Web Application Server)]()
+- [DB 미들웨어]()
