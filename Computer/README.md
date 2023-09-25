@@ -7,7 +7,7 @@
 - [버전 관리 시스템과 레포 호스팅 서비스](./GitAndGitHub/README.md)
 - [코드 에디터와 IDE](./IDE/README.md)
 - [캐싱](./Caching/README.md)
-- [소프트웨어 디자인과 구조](./SoftwareDesignAndArchitecture/README.md)
+- [소프트웨어 디자인 및 아키텍처](./SoftwareDesignAndArchitecture/README.md)
 - [테스트](./Test/README.md)
 - [CI/CD](./CICD/README.md)
 - [가상화, 컨테이너화](./VirtualizationAndContainerization/README.md)
