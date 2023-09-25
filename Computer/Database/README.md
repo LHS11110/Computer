@@ -45,7 +45,7 @@
 - [트랜잭션의 병행 제어]()
 - [병행 제어 기법]()
 - [교착 상태와 해결 방법]()
-- [JDBC와 ODBC]()
+- [ODBC]()
 - [ORM]()
 - [CAP 이론]()
 - [Eventual Consistency]()
