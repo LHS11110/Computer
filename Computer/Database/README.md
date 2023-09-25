@@ -90,7 +90,7 @@
 - [연산자 종류]()
 ## 비관계형 데이터베이스
 - [NoSQL이란?]()
-- [NoSQL 모델 종류]()
+- [NoSQL 데이터 모델 종류]()
 - [모델링]()
 - [MongoDB 쿼리문]()
 - [MongoDB Replica Set]()
