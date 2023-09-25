@@ -59,6 +59,7 @@
 - [GraphQL과 Apollo]()
 - [SOPA]()
 ## Authentication
+- [Cookie-Based Authentication]()
 - [JWT]()
 - [OAuth]()
 - [Token Auth]()
