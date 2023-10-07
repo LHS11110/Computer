@@ -53,7 +53,9 @@
 - [URN이란?]()
 ## APIs
 - [API란?]()
-- [REST]()
+- [REST, REST API, RESTful]()
+- [Uniform Interface 제약 조건]()
+- [OpenAPI Specification(OAS)와 Swagger]()
 - [JSON APIs]()
 - [gRPC]()
 - [GraphQL과 Apollo]()
@@ -79,6 +81,7 @@
 - [단방향 암호화]()
 - [CSRF와 XSS 공격 대응]()
 - [CSP]()
+- [API 보안 모범 사례(백엔드 로드맵 참고)]()
 ## 서버 방식
 - [P2P]()
 - [Host]()
