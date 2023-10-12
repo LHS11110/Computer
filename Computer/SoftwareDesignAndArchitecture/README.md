@@ -5,7 +5,6 @@
 - [TDD]()
 - [DDD]()
 - [객체지향 설계]()
-- [CQRS와 Event Sourcing]()
 - [소프트웨어 개발 프로세스]()
 - [소프트웨어 생명 주기와 V 모델]()
 - [폭포수 모델]()
@@ -16,6 +15,8 @@
 - [Twelve-Factor Apps]()
 - [의존성 주입]()
 - [SoC(관심사 분리) 원칙]()
+- [Service Mesh]()
+- []()
 ## 프로그래밍 패러다임
 - [명령형]()
 - [함수형]()
@@ -75,6 +76,8 @@
 - [마이크로서비스 아키텍처]()
 - [서비스 지향 아키텍처]()
 - [서버리스 아키텍처]()
+- [CQRS]()
+- [Event Sourcing]()
 ## 소프트웨어 설계 원칙
 - [Composition over Inheritance]()
 - [Encapsulate What Varies]()
