@@ -16,7 +16,7 @@
 - [의존성 주입]()
 - [SoC(관심사 분리) 원칙]()
 - [Service Mesh]()
-- []()
+- [API Gateway]() <!-- https://velog.io/@suhongkim98/MSA%EC%99%80-DDD-API-Gateway-%ED%8C%A8%ED%84%B4-9 -->
 ## 프로그래밍 패러다임
 - [명령형]()
 - [함수형]()
