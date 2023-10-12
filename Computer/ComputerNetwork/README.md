@@ -1,5 +1,6 @@
 # 네트워크
 - [인터넷과 네트워크](./NetworkInfo/InternetAndNetwork.md)
+- [호스트]()
 - [인터넷, 인트라넷, 엑스트라넷]()
 - [네트워크 케이블]()
 - [Mac Address, Internet Protocol]()
@@ -10,6 +11,7 @@
 - [단일 실패 지점과 로드 밸런싱]()
 - [가상 사설망]()
 - [VLAN]()
+- [Gateway와 Hope]()
 - [인터넷 제공 업체]()
 - [Point Of Presence, Peering]()
 - [백본]()
