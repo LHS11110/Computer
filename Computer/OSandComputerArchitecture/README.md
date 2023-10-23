@@ -9,9 +9,10 @@
 - [커널]()
 - [쉘]()
 - [프로세스 관리]()
-- [메모리 관리]()
+- [메모리 관리]() <!-- https://ws-pace.tistory.com/27, https://velog.io/@jisoolee11/%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC#%EB%8F%99%EC%A0%81-%EC%A0%81%EC%9E%ACdynamic-loading -->
 - [메모리 관리 전략]()
 - [메모리 할당 알고리즘]()
+- [주소 공간, 물리적 주소, 논리적 주소, 주소 바인딩]() <!-- https://charles098.tistory.com/103?category=947356 -->
 - [파일 시스템]()
 - [입출력 관리]()
 - [다중 처리]()
@@ -28,9 +29,11 @@
 - [인터페이스]()
 - [I/O Multiplexing]()
 - [페이징]()
+- [요구 페이징(Demand Paging), 페이지 폴트(Page Faults)]()
 - [페이지 교체 알고리즘]()
 - [세그먼테이션]()
-- [직접 메모리 접근]()
+- [직접 메모리 접근(Direct Memory Access)]() <!-- https://ko.wikipedia.org/wiki/%EC%A7%81%EC%A0%91_%EB%A9%94%EB%AA%A8%EB%A6%AC_%EC%A0%91%EA%B7%BC -->
+- [Programmed Input/Output]() <!-- https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8_%EC%9E%85%EC%B6%9C%EB%A0%A5 -->
 - [가상머신]()
 - [시스템 콜]()
 - [CPU 스케줄러]()
@@ -133,3 +136,4 @@
 - [SoC]()
 - [FPU]()
 - [GPU와 GPGPU]()
+- [MMU]()
