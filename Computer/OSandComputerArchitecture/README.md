@@ -71,7 +71,7 @@
 - [부호있는 정수]()
 ### 실수 표현
 - [고정 소수점]()
-- [부동 소수점]()
+- [부동 소수점]() <!-- https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=jwyoon25&logNo=221389077105 -->
 ### 문자 표현
 - [아스키 코드]()
 - [유니 코드]()
