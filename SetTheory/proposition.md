@@ -9,11 +9,11 @@
 아래는 기호, 의미, 부정을 나열한 연결사들이며 가장 먼저 나열한 연결사를 먼저 연산한다.  
   
 기호 : 의미 : 부정  
-~p, ￢p : not p : p
-p ∧ q : p and q : p ∨ q
-p ∨ q : p or q : p ∧ q
-p → q : if p, then q : p ∧ ~q
-p ↔ q : p if and only if q, p iff q : p ⊕ q
+~p, ￢p : not p : p  
+p ∧ q : p and q : p ∨ q  
+p ∨ q : p or q : p ∧ q  
+p → q : if p, then q : p ∧ ~q  
+p ↔ q : p if and only if q, p iff q : p ⊕ q  
   
 위 기호와 진리값(True or False)을 사용해서 하나의 표를 만들 수 있는데 이를 진리표라 한다.  
 아래는 명제와 또 다른 명제가 동치임을 보이는 명제들이다.  
