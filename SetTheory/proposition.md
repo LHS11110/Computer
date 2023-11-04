@@ -36,3 +36,5 @@ p → (q → r) ≡ ~p ∨ (~q ∨ r)  (1)
 (~p ∨ ~q) ∨ r ≡ ~(p ∧ q) ∨ r  (2)  
 ~(p ∧ q) ∨ r ≡ (p ∧ q) → r  (1)  
 ## 명제함수(Propositional Function)
+명제함수란 임의의 논의 영역에 포함되는 변수 $x$를 포함하는 명제를 말한다.  
+논의 영역(domain of discourse)이란 명제에 포함된 변수 $x$가 가질 수 있는 것들의 모임을 말한다.
