@@ -9,9 +9,9 @@
 
 $$
 기호 : 의미
-~a, ￢a : not a
-a ∨ b : a or b
-a ∧ b : a and b
-a → b : if a, then b.
-a ↔ b : a if and only if b
+~a, ￢a : not a \\
+a ∨ b : a or b \\
+a ∧ b : a and b \\
+a → b : if a, then b \\
+a ↔ b : a if and only if b \\
 $$
