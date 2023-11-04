@@ -7,4 +7,11 @@
 ## 연결사(connective)
 연결사란 1개 이상의 명제들에 대해서 합성 명제를 구성하는 기호를 말한다. 결합자라고도 한다.
 
-$$x+y=3\\-x+3y=2$$
+$\begin{align}
+기호 : 의미
+~a, ￢a : not a \\
+a ∨ b : a or b \\
+a ∧ b : a and b \\
+a → b : if a, then b \\
+a ↔ b : a if and only if b \\
+\end{align}$
