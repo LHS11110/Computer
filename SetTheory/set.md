@@ -52,4 +52,5 @@ $A_{i}$들을 원소로 가지는 집합족 $X$ = { $A_{i} | i ∈ I$ } = { $A_{
 차집합 : $X - Y$ = { $x | x ∈ X ∧ x ∉ Y$ } = { $x ∈ X | x ∉ Y$ } = $X ∩ Y^{C}$  
 멱집합 : $P(X) = 2^{X}$ = { $Y | Y ⊆ X$ }  
 ## 집합족 연산
-$\bigcup_{123}$  
+$\bigcup F$ = $\bigcup_{i ∈ I} A_{i}$ = { $x | ∃ A ∈ F, x ∈ A$ }
+$\bigcap F$ = $\bigcap_{i ∈ I} A_{i}$ = { $x | ∀ A ∈ F, x ∈ A$ }
