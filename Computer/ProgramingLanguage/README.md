@@ -1,7 +1,6 @@
 # 프로그래밍 언어와 패러다임
 ## 프로그래밍 언어란?
 - [프로그래밍 언어에 대해서](./ProgramingLanguage.md)
-- [언어 목록](./LanguageList.md)
 - [코드 컨벤션](./CodingConventions.md)
 ## 언어의 세대별 특징
 - [1세대 언어]()
