@@ -1,6 +1,6 @@
 # 알고리즘과 자료 구조
 ## 컴퓨팅 사고력
-- [컴퓨팅 사고력이란?](./ComputationalThinking/CT.md)
+- [컴퓨팅 사고력이란?]()
 ## 알고리즘
 - [알고리즘의 개념과 조건]() <!-- https://blog.naver.com/zenix4078/10455518 -->
 - [재귀]()
@@ -59,7 +59,7 @@
 - [그래프]()
 - [해시 테이블]()
 - [AVL 트리]()
-- [Red-Black 트리](./DataStructure/RedBlackTree.md)
+- [Red-Black 트리]()
 ## 복잡도 이론
 - [복잡도 이론과 점근 표기법]()
 - [시간 복잡도]()

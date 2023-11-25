@@ -1,5 +1,5 @@
 # OS(Operating System)와 Computer Architecture
-- [컴퓨터란?](./OSandArchitecture/Computer.md)
+- [컴퓨터란?]()
 - [소프트웨어와 하드웨어]()
 - [시스템 소프트웨어와 응용 소프트웨어]()
 - [제어, 처리 프로그램]()
@@ -62,6 +62,7 @@
 - [단일/멀티 프로세서]()
 - [환경 변수]()
 - [아카이브, 백업, 압축]() <!-- https://m.blog.naver.com/sosungkuk2/221543915990 참고 -->
+- [Linux 파일 종류]() <!-- https://nerd-mix.tistory.com/28 참고 -->
 ## 데이터 표현
 - [진법과 정보 단위]()
 - [데이터의 종류, 데이터 타입]()
@@ -127,6 +128,7 @@
 - [CLI와 GUI란?]()
 - [Unix CLI]()
 - [Linux CLI]()
+- [Linux Mount 개념]()
 ## 컴퓨터 부품 및 주변기기
 - [연산장치]()
 - [기억장치]()
