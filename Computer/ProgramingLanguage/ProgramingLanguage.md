@@ -31,12 +31,12 @@ CPU가 바로 처리할 수 있는 가장 기본적인 프로그래밍 언어로
 2. MASM(Microsoft Macro Assembler)
 3. NASM(Netwide Assembler)
 4. FASM(Flat Assembler)
-## 동적 어셈블러(Dynamic Assembler)
+### 동적 어셈블러(Dynamic Assembler)
 동적 어셈블러 또는 런타임 어셈블러라고도 하며 실행 시간에 번역이 이뤄지는 언어 번역 프로그램을 말한다.
-## 인라인 어셈블러(Inline Assembler)
+### 인라인 어셈블러(Inline Assembler)
 고급 언어에서 어셈블리어를 작성할 수 있도록 하고 이를 번역하는 프로그램이다. 
 고급 언어에서 어셈블리어를 작성할 수 있기 때문에 언어에서 제공하는 것 이상의 최적화를 가능하게 한다. 
-## 디스 어셈블러(Disassembler)
+### 디스 어셈블러(Disassembler)
 어셈블리어를 기계어로 번역하는 기존 어셈블러와는 반대로 기계어에서 어셈블리어로 번역하는 프로그램이다. 
 리버스 엔지니어링과 같이 다양한 이유로 사용되는 프로그램이다. 
 # 고급 언어
