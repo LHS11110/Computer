@@ -6,6 +6,6 @@
 - Google : Google Java Style Guide(https://google.github.io/styleguide/javaguide.html)
 - Oracle : Code Conventions for the Java(https://www.oracle.com/java/technologies/javase/codeconventions-contents.html)
 ## 코딩 컨벤션의 장점
-- 통일된 코딩 스타일은 기능과 구조를 명확하게 한다.
-- 기능과 구조를 명확히 할 수 있는 코딩 스타일은 코드를 이해하는데 드는 시간과 비용을 줄일 수 있다.
-- 유지보수에 대한 비용이 절감된다. 다시 말해 가독성이 좋아진다.
+1. 통일된 코딩 스타일은 기능과 구조를 명확하게 한다.
+2. 기능과 구조를 명확히 할 수 있는 코딩 스타일은 코드를 이해하는데 드는 시간과 비용을 줄일 수 있다.
+3. 유지보수에 대한 비용이 절감된다. 다시 말해 가독성이 좋아진다.
