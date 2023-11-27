@@ -3,7 +3,7 @@
 다양한 분야에 다양한 방법론이 존재하듯 프로그래밍 패러다임 또한 다양한 것들이 존재하며 모든 문제를 쉽게 해결하도록 돕는 프로그래밍 패러다임은 없다.
 따라서 개발자는 다양한 프로그래밍 패러다임들 중에서 가장 적합한 것을 선택할 필요가 있다.
 ## 프로그래밍 패러다임 종류
-1. 절차적 프로그래밍(Procedure Programming)
+1. 절차적 프로그래밍(Procedural Programming)
 2. 객체 지향 프로그래밍(Object Oriented Programming)
 3. 함수형 프로그래밍(Functional Programming)
 4. 논리형 프로그래밍(Logic Programming)
