@@ -14,4 +14,4 @@
 - [성능 측정 및 완화 전략](./MitigationStrategies/README.md)
 - [클라우드 컴퓨팅](./CloudComputing/README.md)
 - [네트워크](./ComputerNetwork/README.md)
-- [웹과 서버](./WebAndServer/README.md) 
+- [웹과 서버](./WebAndServer/README.md)
