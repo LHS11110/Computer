@@ -17,7 +17,7 @@
 - [제어문(Control Flow Statement)]()
 - [자바의 특징과 장단점]()
 - [JVM이란?]()
-- [가비지 컬렉션(Garbage Collection)]()
+- [가비지 컬렉션(Garbage Collection)]() <!-- Unreachable Object, Out Of Memory 추가 -->
 - [Java 동작 과정]()
 - [Java의 메모리 영역]()
 - [Java 자료형]()
