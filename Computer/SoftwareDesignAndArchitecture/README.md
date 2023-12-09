@@ -18,23 +18,6 @@
 - [SoC(관심사 분리) 원칙]()
 - [Service Mesh]()
 - [API Gateway]() <!-- https://velog.io/@suhongkim98/MSA%EC%99%80-DDD-API-Gateway-%ED%8C%A8%ED%84%B4-9 -->
-## 프로그래밍 패러다임
-- [명령형]()
-- [함수형]()
-- [논리형]()
-- [절차 지향]()
-- [객체 지향]()
-- [관점 지향]()
-- [구조적 프로그래밍]()
-- [메타프로그래밍]()
-- [제네릭 프로그래밍]()
-### OOP(Object Oriented Programming)
-- [객체, 클래스, 인스턴스]()
-- [상속, 다형성, 캡슐화, 추상화]()
-- [Abstract Class]()
-- [Concrete Class]()
-- [Scope and Visibility]()
-- [Interface]()
 ## GOF 디자인 패턴
 - [디자인 패턴이란?]()
 ### 생성 패턴
