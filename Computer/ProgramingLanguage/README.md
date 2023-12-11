@@ -1,8 +1,8 @@
 # 프로그래밍 언어와 패러다임
 ## 프로그래밍 언어란?
-- [프로그래밍 언어에 대해서](./ProgrammingLanguage.md)
-- [프로그래밍 패러다임](./ProgrammingParadigm.md)
-- [코딩 컨벤션](./CodingConventions.md)
+- [프로그래밍 언어에 대해서](./PL1.md)
+- [프로그래밍 패러다임](./PL2.md)
+- [코딩 컨벤션](./PL3.md)
 - [언어의 세대별 특징]()
 ## 컴파일러와 인터프리터
 - [컴파일러란?]()
@@ -11,8 +11,8 @@
 - [인터프리터 과정]()
 - [JIT 컴파일러]()
 ## OOP(Object Oriented Programming)
-- [객체지향 프로그래밍과 절차적 프로그래밍](./OOPandPP.md) <!-- 상속, 다형성, 캡슐화, 추상화 -->
-- [객체, 클래스, 인스턴스]()
+- [객체지향 프로그래밍과 절차적 프로그래밍](./OOP1.md) <!-- 상속, 다형성, 캡슐화, 추상화 -->
+- [객체, 클래스, 인스턴스](./OOP2.md)
 - [Abstract Class]()
 - [Concrete Class]()
 - [Scope and Visibility]()
