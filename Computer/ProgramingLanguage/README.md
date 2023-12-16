@@ -18,6 +18,7 @@
 - [Scope and Visibility]()
 - [Interface]()
 ## Java
+- [Java란?]()
 - [JAVA SE, ME, EE]()
 - [JDK, JRE, JVM의 차이]()
 - [클래스, 패키지, 모듈]()
@@ -63,6 +64,6 @@
 - [JDBC란?]()
 ## 라이브러리, 모듈, 패키지의 의미
 - [라이브러리란?]()
-- [모듈과 컴포넌트란?]()
+- [모듈과 컴포넌트란?]() <!-- https://velog.io/@yu-jin-song/SW%EA%B3%B5%ED%95%99-%EA%B2%B0%ED%95%A9%EB%8F%84%EC%99%80-%EC%9D%91%EC%A7%91%EB%8F%84 -->
 - [패키지란?]()
 - [프레임워크란?]()
