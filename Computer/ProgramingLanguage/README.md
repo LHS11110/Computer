@@ -18,7 +18,7 @@
 - [Scope and Visibility]()
 - [Interface]()
 ## Java
-- [Java란?]()
+- [Java란?](./JAVA1.md)
 - [JAVA SE, ME, EE]()
 - [JDK, JRE, JVM의 차이]()
 - [클래스, 패키지, 모듈]()
