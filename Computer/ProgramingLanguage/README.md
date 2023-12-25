@@ -11,7 +11,7 @@
 - [인터프리터 과정]()
 - [JIT 컴파일러]()
 ## OOP(Object Oriented Programming)
-- [객체 지향 프로그래밍과 절차적 프로그래밍](./OOP1.md) <!-- 상속, 다형성, 캡슐화, 추상화 -->
+- [객체 지향 프로그래밍과 절차적 프로그래밍](./OOP1.md)
 - [객체, 클래스, 인스턴스](./OOP2.md)
 - [Abstract Class]()
 - [Concrete Class]()
