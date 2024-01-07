@@ -16,7 +16,7 @@
 5. 구조적 프로그래밍(Structured Programming)
 6. 관점 지향 프로그래밍(Aspect Oriented Programming)
 ### 1. 절차적 프로그래밍(Procedural Programming)
-프로시저 호출(Procedural Call)의 개념을 기반으로 한다.<br/>
+프로시저 호출(Procedural Call)의 개념을 기반으로 하는 프로그래밍 패러다임이다.<br/>
 프로시저는 함수(Function), 서브루틴(Subroutine), 메소드(Method)라고도 불린다.<br/>
 대표적인 언어로는 C가 있다.
 ### 2. 객체 지향 프로그래밍(Object Oriented Programming)
