@@ -13,6 +13,7 @@
 - [Clustered Index와 Non-Clustered Index]()
 - [트랜잭션 추상화와 동기화]()
 - [Commit과 Rollback]()
+- [CRUD]() <!-- https://en.wikipedia.org/wiki/Create,_read,_update_and_delete -->
 - [트랜잭션의 상태]()
 - [옵티마이저]()
 - [데이터베이스 샤드]()

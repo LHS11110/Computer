@@ -22,6 +22,7 @@
 - [인터넷 제공 업체]()
 - [Point Of Presence, Peering]()
 - [백본]()
+- [방화벽(Firewall)]()
 - [소켓]()
 - [IPv4와 IPv6]()
 - [IP Class]()
