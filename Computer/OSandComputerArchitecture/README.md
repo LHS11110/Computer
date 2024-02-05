@@ -51,8 +51,7 @@
 - [병목 현상]()
 - [빅엔디언과 리틀엔디언]()
 - [참조 지역성의 원리]()
-- [중앙 처리 장치(Central Processing Unit, CPU)]() <!-- CPU 구조와 레지스터 종류, CPU 실행 주기 -->
-- [Intel CPU와 AMD CPU]()
+- [중앙 처리 장치(Central Processing Unit, CPU)]() <!-- CPU 구조와 레지스터 종류, CPU 실행 주기, LGA, PGA, BGA -->
 - [레지스터]() <!-- SISO, PISO, SIPO, PIPO 및 회로 -->
 - [ALU]() <!-- 가산기, 감산기, 멀티 비트 가신기, 보수기, 시프터, 오버플로우 검출기 -->
 - [파이프라인]()
