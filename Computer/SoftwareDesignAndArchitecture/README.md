@@ -2,22 +2,9 @@
 - [소프트웨어 유지보수]()
 - [소프트웨어 디자인이란?]()
 - [소프트웨어 아키텍처란?]()
-- [클린 코드 원칙]()
-- [TDD]()
-- [DDD]()
-- [객체지향 설계]()
-- [소프트웨어 개발 프로세스]()
-- [소프트웨어 생명 주기와 V 모델]()
-- [폭포수 모델]()
-- [프로토타이핑 모델]()
-- [나선형 모델]()
-- [진화적 모델]()
-- [Agile 모델]()
-- [Twelve-Factor Apps]()
-- [의존성 주입]()
-- [SoC(관심사 분리) 원칙]()
-- [Service Mesh]()
-- [API Gateway]() <!-- https://velog.io/@suhongkim98/MSA%EC%99%80-DDD-API-Gateway-%ED%8C%A8%ED%84%B4-9 -->
+- [클린 코드(Clean Code)]()
+- [테스트 주도 개발(Test Driven Development, TDD)]()
+- [도메인 주도 설계(Domain Driven Design, DDD)]()
 ## GOF 디자인 패턴
 - [디자인 패턴이란?]()
 ### 생성 패턴
@@ -45,7 +32,7 @@
 - [브리지]()
 - [플라이웨이트]()
 - [데코레이터]()
-## 소프트웨어 아키텍처 패턴
+## 소프트웨어 아키텍처 패턴 및 스타일
 - [소프트웨어 아키텍처 패턴이란?]()
 - [계층화 패턴]()
 - [클라이언트-서버 패턴]()
@@ -57,12 +44,16 @@
 - [MVC 패턴]()
 - [블랙보드 패턴]()
 - [모놀리식 아키텍처]()
-- [마이크로서비스 아키텍처]()
-- [서비스 지향 아키텍처]()
+- [마이크로서비스 아키텍처]() <!-- Service Mesh, API Gateway, Service Discovery -->
+- [서비스 지향 아키텍처(Service Oriented Architecture, SOA)]()
 - [서버리스 아키텍처]()
 - [CQRS]()
 - [Event Sourcing]()
-## 소프트웨어 설계 원칙
+- [EDA(Event Driven Architecture)]()
+- [Publish Subscribe]()
+- [컴포넌트 기반 패턴]()
+## 소프트웨어 디자인 원칙
+- [관심사 분리(Separation of Concerns, SoC) 원칙]()
 - [Composition over Inheritance]()
 - [Encapsulate What Varies]()
 - [Program Against Abstractions]()
@@ -72,13 +63,5 @@
 - [YAGNI 원칙]()
 - [KISS 원칙]()
 - [결합도(Coupling)와 응집도(Cohesion)]()
-## 소프트웨어 아키텍처 원칙
-- [클린 아키텍처란?]()
-- [정책(Policy)과 세부사항(Detail)]()
-- [컴포넌트 원칙이란?]()
-- [컴포넌트 응집도]()
-- [컴포넌트 결합]()
-- [아키텍처 경계]()
-## 아키텍처 스타일
-- [아키텍처 스타일이란?]()
-###
+## 엔터프라이즈 패턴
+- [DAO, DTO, VO, Entity]()
